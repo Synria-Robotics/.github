@@ -2,15 +2,11 @@
 
 Xuanya Technology Co., Ltd., founded in 2024 and headquartered in Shenzhen, China, is a forward-looking company committed to pushing the boundaries of embodied intelligence. We provide full-stack robotic solutions that seamlessly integrate robotic arms, intelligent end-effectors, and advanced power systems. Our technological development is anchored in five foundational pillars that define the future of next-generation robotics:
 
-i. Remote and wireless operation
-
-ii. Force feedback and haptic interaction
-
-iii. High-precision motion control
-
-iv. Human-centered ergonomic design
-
-v. Shared autonomy and adaptive control
+- Remote and wireless teleoperation
+- Force feedback and haptic interaction
+- High-precision motion control
+- Human-centered ergonomic robot design
+- Shared and adaptive control 
 
 If you would like to learn more, please refer to:
 [GitHub](https://github.com/Xuanya-Robotics) | [Taobao](https://m.tb.cn/h.h2cVdhu5JXDQvPu) | [Website](https://www.xuanyatech.com/)
