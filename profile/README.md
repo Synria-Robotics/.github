@@ -10,8 +10,6 @@
 - **共享与自适应控制** —— 使机器人具备学习与协同进化的能力  
 - **多模态具身智能算法** —— 融合视觉、触觉与运动，实现真正智能的行为决策  
 
-在玄雅，我们不仅仅是在制造机器人，更是在打造人类与智能体共生的未来。
-
 **Shenzhen Synria Robotics Co., Ltd.**, founded in 2024 and headquartered in Shenzhen, China, is an innovative technology company leading the future of embodied intelligence. We specialize in delivering integrated solutions for teleoperation and remote interactive robotics, combining robotic arms, humanoid robots, advanced teleoperation systems, and next-generation embodied intelligence algorithms.
 
 Driven by a mission to redefine human-machine interaction, our core technologies are built on five pillars of innovation, shaping the next generation of intelligent robotics:
@@ -22,8 +20,6 @@ Driven by a mission to redefine human-machine interaction, our core technologies
 - **Shared and adaptive control** – Empowering robots to learn, evolve, and collaborate dynamically  
 - **Multimodal embodied intelligence algorithms** – Integrating vision, touch, and motion for truly intelligent behavior  
 
-At Xuanya, we’re not just building robots — we’re building a future where humans and intelligent agents thrive together.
-```
 
 If you would like to learn more, please refer to:
 [GitHub](https://github.com/Xuanya-Robotics) | [Taobao](https://m.tb.cn/h.h2cVdhu5JXDQvPu) | [Website](https://www.xuanyatech.com/)
