@@ -13,13 +13,11 @@ The company’s technical architecture is built on five core pillars:
 - **Shared and Adaptive Control Mechanism**: Supports shared control between humans and robots with dynamically adjustable control authority, enabling efficient, safe, and intuitive collaboration.  
 - **Multimodal Embodied Intelligence Algorithms**: Integrates vision, touch, and semantic perception to generate intelligent behavior in real-world environments.
 
----
-
 <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%; text-align: left;">
   <thead>
     <tr>
       <th style="width: 30%;">Product</th>
-      <th style="width: 20%;">Repository</th>
+      <th style="width: 30%;">Repository</th>
       <th>Description</th>
     </tr>
   </thead>

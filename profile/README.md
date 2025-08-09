@@ -13,13 +13,11 @@
 - **共享与自适应控制机制**：支持人与机器人共享控制，控制权可动态调整，实现高效、安全、便捷的人机协作
 - **多模态具身智能算法**：融合视觉、触觉、语义等多源感知信息，支撑真实环境下的智能行为生成  
 
----
-
 <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%; text-align: left;">
   <thead>
     <tr>
       <th style="width: 30%;">产品</th>
-      <th style="width: 20%;">仓库</th>
+      <th style="width: 30%;">仓库</th>
       <th>描述</th>
     </tr>
   </thead>
