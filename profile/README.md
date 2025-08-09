@@ -1,38 +1,70 @@
 # Synria Robotics 玄雅科技 -  the Future of Humanity
 
-**深圳市玄雅科技有限公司**成立于2024年，总部位于中国深圳，是一家致力于引领具身智能未来的创新型科技企业。我们专注于提供遥操作与远程交互机器人的一体化解决方案，涵盖机械臂、人形机器人、先进遥操作系统以及新一代具身智能算法的深度融合。
+[![English](https://img.shields.io/badge/EN-blue)](README_EN.md)
+[![中文](https://img.shields.io/badge/中文-red)](README.md)
 
-以重塑人机互动方式为使命，我们的核心技术体系基于五大创新支柱，开创下一代智能机器人新纪元：
+**深圳市玄雅科技有限公司**（Shenzhen Synria Robotics Co., Ltd.）成立于 2024 年，总部位于中国深圳，是一家专注于 **具身智能与远程交互机器人** 的创新型科技企业。核心业务涵盖 **遥操作机器人、一体化远程交互解决方案、先进控制系统** 及 **新一代多模态具身智能算法** 的深度融合。产品广泛适用于工业自动化、远程医疗、教育辅助等场景，具备跨域远程遥操能力、高响应性、精细化操作能力与多模态感知能力，能够满足复杂任务下的人机协同需求。
 
-- **远程与无线遥操作** —— 实现跨地域、实时的人机协作  
-- **力反馈与触觉交互** —— 赋予机器人真实可感的触觉体验  
-- **以人为本的人体工学机器人设计** —— 让机器人更自然、更安全地融入人类工作与生活  
-- **共享与自适应控制** —— 使机器人具备学习与协同进化的能力  
-- **多模态具身智能算法** —— 融合视觉、触觉与运动，实现真正智能的行为决策  
+公司技术体系构建于以下五大核心支柱之上：
 
-**Shenzhen Synria Robotics Co., Ltd.**, founded in 2024 and headquartered in Shenzhen, China, is an innovative technology company leading the future of embodied intelligence. We specialize in delivering integrated solutions for teleoperation and remote interactive robotics, combining robotic arms, humanoid robots, advanced teleoperation systems, and next-generation embodied intelligence algorithms.
+- **远程与无线遥操作**：支持低延迟、高精度的人机远程控制，适用于跨地域作业需求  
+- **力反馈与触觉交互**：实现操作过程中的触觉同步与力感还原，提升任务执行的可控性与安全性  
+- **人体工学驱动的设计理念**：结合人体工学设计示教装置，贴合人体动作习惯，提升操控舒适性与效率
+- **共享与自适应控制机制**：支持人与机器人共享控制，控制权可动态调整，实现高效、安全、便捷的人机协作
+- **多模态具身智能算法**：融合视觉、触觉、语义等多源感知信息，支撑真实环境下的智能行为生成  
 
-Driven by a mission to redefine human-machine interaction, our core technologies are built on five pillars of innovation, shaping the next generation of intelligent robotics:
+---
 
-- **Remote and wireless teleoperation** – Enabling real-time, cross-regional human-machine collaboration  
-- **Force feedback and haptic interaction** – Bringing realistic, tactile sensation to robotic control  
-- **Human-centered ergonomic robot design** – Ensuring robots move safely and naturally alongside people  
-- **Shared and adaptive control** – Empowering robots to learn, evolve, and collaborate dynamically  
-- **Multimodal embodied intelligence algorithms** – Integrating vision, touch, and motion for truly intelligent behavior  
+更多信息详见:
+[GitHub](https://github.com/Synria-Robotics) | [Gitee](https://gitee.com/Synria-Robotics) | [Taobao](https://m.tb.cn/h.h2cVdhu5JXDQvPu) | [Website](https://www.xuanyatech.com/) | [Sparkling 手册](https://docs.sparklingrobo.com/)
 
-
-If you would like to learn more, please refer to:
-[GitHub](https://github.com/Xuanya-Robotics) | [Taobao](https://m.tb.cn/h.h2cVdhu5JXDQvPu) | [Website](https://www.xuanyatech.com/)
-
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <thead>
+    <tr>
+      <th style="width: 30%;">Product</th>
+      <th style="width: 20%;">Repository</th>
+      <th>Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="6"><strong>Alicia-D Series</strong><br/>6-DOF Servo Arm
+        <img src="../imgs/Alicia-D.jpg" alt="Alicia-D Preview" style="margin-top: 6px;" /><br/>
+        <img src="../imgs/Alicia_Duo_V5_4.png" alt="Alicia-D Preview" style="margin-top: 6px;" />
+      </td>
+      <td><a href="https://github.com/Synria-Robotics/Alicia-D-SDK">Alicia-D-SDK</a></td>
+      <td>A Python SDK for controlling the Alicia-D 6-DOF robotic arm. Features include state reading, joint control, end-effector pose control, gripper control, forward/inverse kinematics, and more.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Synria-Robotics/Alicia-D-ROS1">Alicia-D-ROS1</a></td>
+      <td>ROS1 control package with drivers, MoveIt configuration, drag-teaching and grasping examples.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Synria-Robotics/Alicia-D-ROS2">Alicia-D-ROS2</a></td>
+      <td>ROS2 Humble compatible package with standard topic interfaces and a complete control pipeline.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Synria-Robotics/Alicia-D-Leader-ROS">Alicia-D-Leader-ROS</a></td>
+      <td>ROS driver for the leader arm (teaching arm), used to read joint states and publish custom messages.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Synria-Robotics/Alicia-D-VLM-Grasp">Alicia-D-VLM-Grasp</a></td>
+      <td>Vision-Language Model (VLM) based semantic grasping example, integrating Alibaba Cloud Bailian API.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Synria-Robotics/lerobot">lerobot</a></td>
+      <td>A robot learning and data collection framework, supporting imitation learning and teleoperation workflows.</td>
+    </tr>
+    <tr>
+      <td rowspan="2"><strong>Bessica-D Series</strong><br/>Dual-arm Humanoid Robot
+        <img src="../imgs/Bessica-D.png" alt="Bessica-D Preview" style="margin-top: 6px;" />
+      </td>
+      <td><a href="https://github.com/Synria-Robotics/Bessica-D-SDK">Bessica-D-SDK</a></td>
+      <td>A Python SDK that supports dual-arm control, gripper operation, serial communication, and state feedback.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Synria-Robotics/Bessica-D-ROS1">Bessica-D-ROS1</a></td>
+      <td>ROS1 control package supporting synchronized dual-arm control, state reading, and MoveIt integration.</td>
+    </tr>
+  </tbody>
+</table>
