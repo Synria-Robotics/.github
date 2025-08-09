@@ -14,10 +14,15 @@
 - **多模态具身智能算法**：融合视觉、触觉、语义等多源感知信息，支撑真实环境下的智能行为生成  
 
 <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%; text-align: left;">
+  <colgroup>
+    <col width="30%">
+    <col width="30%">
+    <col width="40%">
+  </colgroup>
   <thead>
     <tr>
       <th style="width: 30%;">产品</th>
-      <th style="width: 30%;">   仓库   </th>
+      <th style="width: 30%;">仓库</th>
       <th>描述</th>
     </tr>
   </thead>
