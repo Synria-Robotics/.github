@@ -21,50 +21,50 @@
 <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%; text-align: left;">
   <thead>
     <tr>
-      <th style="width: 30%;">Product</th>
-      <th style="width: 20%;">Repository</th>
-      <th>Description</th>
+      <th style="width: 30%;">产品</th>
+      <th style="width: 20%;">仓库</th>
+      <th>描述</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="6"><strong>Alicia-D Series</strong><br/>6-DOF Servo Arm
-        <img src="../imgs/Alicia-D.jpg" alt="Alicia-D Preview" style="margin-top: 6px;" /><br/>
-        <img src="../imgs/Alicia_Duo_V5_4.png" alt="Alicia-D Preview" style="margin-top: 6px;" />
+      <td rowspan="6"><strong>Alicia-D灵动系列</strong><br/>舵机桌面六轴机械臂
+       <img src="../imgs/Alicia-D.jpg" alt="Alicia-D 示意图" style="width: 200px; margin-top: 6px;" /><br/>
+       <img src="../imgs/Alicia_Duo_V5_4.png" alt="Alicia-D 示意图" style="width: 200px; margin-top: 6px;" />
       </td>
       <td><a href="https://github.com/Synria-Robotics/Alicia-D-SDK">Alicia-D-SDK</a></td>
-      <td>A Python SDK for controlling the Alicia-D 6-DOF robotic arm. Features include state reading, joint control, end-effector pose control, gripper control, forward/inverse kinematics, and more.</td>
+      <td>Python SDK，用于控制 Alicia-D 六轴机械臂，包括状态读取、关节控制、末端位姿控制、夹爪控制、正逆运动学等功能</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Synria-Robotics/Alicia-D-ROS1">Alicia-D-ROS1</a></td>
-      <td>ROS1 control package with drivers, MoveIt configuration, drag-teaching and grasping examples.</td>
+      <td>ROS1 控制包，包含驱动、MoveIt 配置、拖动示教与抓取等示例</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Synria-Robotics/Alicia-D-ROS2">Alicia-D-ROS2</a></td>
-      <td>ROS2 Humble compatible package with standard topic interfaces and a complete control pipeline.</td>
+      <td>ROS2 Humble 支持，标准话题接口与完整控制链路</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Synria-Robotics/Alicia-D-Leader-ROS">Alicia-D-Leader-ROS</a></td>
-      <td>ROS driver for the leader arm (teaching arm), used to read joint states and publish custom messages.</td>
+      <td>示教臂（Leader）ROS 驱动，可读取关节状态并发布为自定义消息</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Synria-Robotics/Alicia-D-VLM-Grasp">Alicia-D-VLM-Grasp</a></td>
-      <td>Vision-Language Model (VLM) based semantic grasping example, integrating Alibaba Cloud Bailian API.</td>
+      <td>基于视觉语言模型（VLM）的语义抓取示例，集成阿里云百炼 API</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Synria-Robotics/lerobot">lerobot</a></td>
-      <td>A robot learning and data collection framework, supporting imitation learning and teleoperation workflows.</td>
+      <td>机器人学习与数据采集框架，用于模仿学习、遥操作配套使用</td>
     </tr>
     <tr>
-      <td rowspan="2"><strong>Bessica-D Series</strong><br/>Dual-arm Humanoid Robot
-        <img src="../imgs/Bessica-D.png" alt="Bessica-D Preview" style="margin-top: 6px;" />
+      <td rowspan="2"><strong>Bessica-D灵越系列</strong><br/>舵机双臂人形机器人
+      <img src="../imgs/Bessica-D.png" alt="Alicia-D 示意图" style="width: 200px; margin-top: 6px;" />
       </td>
       <td><a href="https://github.com/Synria-Robotics/Bessica-D-SDK">Bessica-D-SDK</a></td>
-      <td>A Python SDK that supports dual-arm control, gripper operation, serial communication, and state feedback.</td>
+      <td>Python SDK，支持串口通信与状态读取、双臂关节控制、夹爪控制</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Synria-Robotics/Bessica-D-ROS1">Bessica-D-ROS1</a></td>
-      <td>ROS1 control package supporting synchronized dual-arm control, state reading, and MoveIt integration.</td>
+      <td>ROS1 控制包，支持双臂同步控制、状态读取与 MoveIt 接口</td>
     </tr>
   </tbody>
 </table>
