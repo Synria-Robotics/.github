@@ -24,7 +24,7 @@ The company’s technical architecture is built on five core pillars:
   <tbody>
     <tr>
       <td rowspan="6"><strong>Alicia-D Series</strong><br/>6-DOF Servo Arm
-        <img src="../imgs/Alicia-D.jpg" alt="Alicia-D Preview" style="width: 200px; margin-top: 6px;" /><br/>
+        <img src="../imgs/Alicia-D.png" alt="Alicia-D Preview" style="width: 200px; margin-top: 6px;" /><br/>
         <img src="../imgs/Alicia_Duo_V5_4.png" alt="Alicia-D Preview" style="width: 200px; margin-top: 6px;" />
       </td>
       <td><a href="https://github.com/Synria-Robotics/Alicia-D-SDK">Alicia-D-SDK</a></td>
