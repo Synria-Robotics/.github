@@ -17,7 +17,7 @@
   <thead>
     <tr>
       <th style="width: 30%;">产品</th>
-      <th style="width: 30%;">仓库</th>
+      <th style="width: 30%;">   仓库   </th>
       <th>描述</th>
     </tr>
   </thead>
