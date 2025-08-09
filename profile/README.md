@@ -15,9 +15,6 @@
 
 ---
 
-更多信息详见:
-[GitHub](https://github.com/Synria-Robotics) | [Gitee](https://gitee.com/Synria-Robotics) | [Taobao](https://m.tb.cn/h.h2cVdhu5JXDQvPu) | [Website](https://www.xuanyatech.com/) | [Sparkling 手册](https://docs.sparklingrobo.com/)
-
 <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%; text-align: left;">
   <thead>
     <tr>
@@ -68,3 +65,6 @@
     </tr>
   </tbody>
 </table>
+
+更多信息详见:
+[GitHub](https://github.com/Synria-Robotics) | [Gitee](https://gitee.com/Synria-Robotics) | [Taobao](https://m.tb.cn/h.h2cVdhu5JXDQvPu) | [Website](https://www.xuanyatech.com/) | [Sparkling 手册](https://docs.sparklingrobo.com/)

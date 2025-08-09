@@ -13,10 +13,7 @@ The company’s technical architecture is built on five core pillars:
 - **Shared and Adaptive Control Mechanism**: Supports shared control between humans and robots with dynamically adjustable control authority, enabling efficient, safe, and intuitive collaboration.  
 - **Multimodal Embodied Intelligence Algorithms**: Integrates vision, touch, and semantic perception to generate intelligent behavior in real-world environments.
 
-
-For more information, please refer to: 
-[GitHub](https://github.com/Synria-Robotics) | [Gitee](https://gitee.com/Synria-Robotics) | [Taobao](https://m.tb.cn/h.h2cVdhu5JXDQvPu) | [Website](https://www.xuanyatech.com/) | [Sparkling Docs](https://docs.sparklingrobo.com/)
-
+---
 
 <table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width: 100%; text-align: left;">
   <thead>
@@ -68,3 +65,6 @@ For more information, please refer to:
     </tr>
   </tbody>
 </table>
+
+For more information, please refer to: 
+[GitHub](https://github.com/Synria-Robotics) | [Gitee](https://gitee.com/Synria-Robotics) | [Taobao](https://m.tb.cn/h.h2cVdhu5JXDQvPu) | [Website](https://www.xuanyatech.com/) | [Sparkling Docs](https://docs.sparklingrobo.com/)
