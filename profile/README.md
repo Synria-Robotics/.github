@@ -29,8 +29,8 @@
   <tbody>
     <tr>
       <td rowspan="6"><strong>Alicia-D灵动系列</strong><br/>舵机桌面六轴机械臂
-       <img src="../imgs/Alicia-D.jpg" alt="Alicia-D 示意图" style="width: 200px; margin-top: 6px;" /><br/>
-       <img src="../imgs/Alicia_Duo_V5_4.png" alt="Alicia-D 示意图" style="width: 200px; margin-top: 6px;" />
+       <img src="../imgs/Alicia-D.jpg" alt="Alicia-D 示意图" style="width: 160px; margin-top: 6px;" /><br/>
+       <img src="../imgs/Alicia_Duo_V5_4.png" alt="Alicia-D 示意图" style="width: 160px; margin-top: 6px;" />
       </td>
       <td><a href="https://github.com/Synria-Robotics/Alicia-D-SDK">Alicia-D-SDK</a></td>
       <td>Python SDK，用于控制 Alicia-D 六轴机械臂，包括状态读取、关节控制、末端位姿控制、夹爪控制、正逆运动学等功能</td>
@@ -57,7 +57,7 @@
     </tr>
     <tr>
       <td rowspan="2"><strong>Bessica-D灵越系列</strong><br/>舵机双臂人形机器人
-      <img src="../imgs/Bessica-D.png" alt="Alicia-D 示意图" style="width: 200px; margin-top: 6px;" />
+      <img src="../imgs/Bessica-D.png" alt="Alicia-D 示意图" style="width: 160px; margin-top: 6px;" />
       </td>
       <td><a href="https://github.com/Synria-Robotics/Bessica-D-SDK">Bessica-D-SDK</a></td>
       <td>Python SDK，支持串口通信与状态读取、双臂关节控制、夹爪控制</td>
