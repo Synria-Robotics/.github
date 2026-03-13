@@ -56,15 +56,36 @@
       <td>机器人学习与数据采集框架，用于模仿学习、遥操作配套使用</td>
     </tr>
     <tr>
-      <td rowspan="2"><strong>Bessica-D 灵越系列</strong><br/>舵机双臂人形机器人<br/>
-      <img src="../imgs/Bessica-D.png" alt="Alicia-D 示意图" style="width: 220px; margin-top: 6px;" />
+      <td rowspan="2"><strong>Alicia-M 云擎系列</strong><br/>电机六轴力控机械臂<br/>
+      <img src="../imgs/Alicia-M.jpg" alt="Alicia-M 示意图" style="width: 220px; margin-top: 6px;" />
       </td>
-      <td><a href="https://github.com/Synria-Robotics/Bessica-D-SDK">Bessica-D-SDK</a></td>
-      <td>Python SDK，支持串口通信与状态读取、双臂关节控制、夹爪控制</td>
+      <td><a href="https://github.com/Synria-Robotics/Alicia-M-SDK">Alicia-M-SDK</a></td>
+      <td>Python SDK，支持串口通信与状态读取、关节控制、夹爪控制等</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Synria-Robotics/Bessica-D-ROS1">Bessica-D-ROS1</a></td>
-      <td>ROS1 控制包，支持双臂同步控制、状态读取与 MoveIt 接口</td>
+      <td><a href="https://github.com/Synria-Robotics/Alicia-M-ROS2">Alicia-M-ROS2</a></td>
+      <td>ROS2 控制包，支持同步控制、状态读取与 MoveIt 接口及手眼标定等</td>
+    </tr>
+    <tr>
+      <td rowspan="1"><strong>Gloria-D 灵犀系列</strong><br/>平行二指舵机夹爪<br/>
+      <img src="../imgs/Gloria-D.png" alt="Gloria-D 示意图" style="width: 220px; margin-top: 6px;" />
+      </td>
+      <td><a href="https://github.com/Synria-Robotics/Gloria-D-SDK">Gloria-D-SDK</a></td>
+      <td>Python SDK，支持串口通信与力控和非力控模式控制</td>
+    </tr>
+    <tr>
+      <td rowspan="1"><strong>Gloria-M 云犀系列</strong><br/>力控平行二指夹爪<br/>
+      <img src="../imgs/Gloria-D.png" alt="Gloria-D 示意图" style="width: 220px; margin-top: 6px;" />
+      </td>
+      <td><a href="https://github.com/Synria-Robotics/Gloria-M-SDK">Gloria-M-SDK</a></td>
+      <td>Python SDK，支持TTL转CAN通信，其中包含位置、速度、力矩等状态读取及控制，可切换电机模式为MIT和PV</td>
+    </tr>
+    <tr>
+      <td rowspan="1"><strong>Synria-C10相机</strong><br/>USB相机<br/>
+      <img src="../imgs/Synria-C10.png" alt="Gloria-D 示意图" style="width: 220px; margin-top: 6px;" />
+      </td>
+      <td><a href="https://github.com/Synria-Robotics/Synria-C10-SDK">Synria-C10-SDK</a></td>
+      <td>支持RGB图像读取</td>
     </tr>
   </tbody>
 </table>
