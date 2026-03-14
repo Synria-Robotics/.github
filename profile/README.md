@@ -75,7 +75,7 @@
     </tr>
     <tr>
       <td rowspan="1"><strong>Gloria-M 云犀系列</strong><br/>力控平行二指夹爪<br/>
-      <img src="../imgs/Gloria-D.png" alt="Gloria-D 示意图" style="width: 220px; margin-top: 6px;" />
+      <img src="../imgs/Gloria-M.png" alt="Gloria-D 示意图" style="width: 220px; margin-top: 6px;" />
       </td>
       <td><a href="https://github.com/Synria-Robotics/Gloria-M-SDK">Gloria-M-SDK</a></td>
       <td>Python SDK，支持TTL转CAN通信，其中包含位置、速度、力矩等状态读取及控制，可切换电机模式为MIT和PV</td>

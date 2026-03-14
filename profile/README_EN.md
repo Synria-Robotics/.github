@@ -75,7 +75,7 @@ The company’s technical architecture is built on five core pillars:
     </tr>
     <tr>
       <td rowspan="1"><strong>Gloria-M Series</strong><br/>Force-Control Parallel Two-Finger Gripper<br/>
-        <img src="../imgs/Gloria-D.png" alt="Gloria-M preview" style="width: 220px; margin-top: 6px;" />
+        <img src="../imgs/Gloria-M.png" alt="Gloria-M preview" style="width: 220px; margin-top: 6px;" />
       </td>
       <td><a href="https://github.com/Synria-Robotics/Gloria-M-SDK">Gloria-M-SDK</a></td>
       <td>Python SDK with TTL-to-CAN communication, supporting position, velocity, and torque state reading and control, with switchable MIT and PV motor control modes.</td>
