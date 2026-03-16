@@ -57,7 +57,7 @@ The company’s technical architecture is built on five core pillars:
     </tr>
     <tr>
       <td rowspan="2"><strong>Alicia-M Series</strong><br/>Motor-Driven 6-DOF Force-Control Arm<br/>
-        <img src="../imgs/Alicia-M.jpg" alt="Alicia-M preview" style="width: 220px; margin-top: 6px;" />
+        <img src="../imgs/Alicia-M.png" alt="Alicia-M preview" style="width: 220px; margin-top: 6px;" />
       </td>
       <td><a href="https://github.com/Synria-Robotics/Alicia-M-SDK">Alicia-M-SDK</a></td>
       <td>Python SDK supporting serial communication, state reading, joint control, and gripper control for the Alicia-M arm.</td>

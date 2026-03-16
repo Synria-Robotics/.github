@@ -57,7 +57,7 @@
     </tr>
     <tr>
       <td rowspan="2"><strong>Alicia-M 云擎系列</strong><br/>电机六轴力控机械臂<br/>
-      <img src="../imgs/Alicia-M.jpg" alt="Alicia-M 示意图" style="width: 220px; margin-top: 6px;" />
+      <img src="../imgs/Alicia-M.png" alt="Alicia-M 示意图" style="width: 220px; margin-top: 6px;" />
       </td>
       <td><a href="https://github.com/Synria-Robotics/Alicia-M-SDK">Alicia-M-SDK</a></td>
       <td>Python SDK，支持串口通信与状态读取、关节控制、夹爪控制等</td>
