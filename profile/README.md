@@ -28,7 +28,7 @@
   </thead>
   <tbody>
     <tr>
-      <td rowspan="6"><strong>Alicia-D 灵动系列</strong><br/>舵机桌面六轴机械臂<br/>
+      <td rowspan="5"><strong>Alicia-D 灵动系列</strong><br/>舵机桌面六轴机械臂<br/>
        <img src="../imgs/Alicia-D.png" alt="Alicia-D 示意图" style="width: 220px; margin-top: 6px;" /><br/>
        <img src="../imgs/Alicia_Duo_V5_4.png" alt="Alicia-D 示意图" style="width: 220px; margin-top: 6px;" />
       </td>
@@ -42,10 +42,6 @@
     <tr>
       <td><a href="https://github.com/Synria-Robotics/Alicia-D-ROS2">Alicia-D-ROS2</a></td>
       <td>ROS2 Humble 支持，标准话题接口与完整控制链路</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Synria-Robotics/Alicia-D-Leader-ROS">Alicia-D-Leader-ROS</a></td>
-      <td>示教臂（Leader）ROS 驱动，可读取关节状态并发布为自定义消息</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Synria-Robotics/Alicia-D-VLM-Grasp">Alicia-D-VLM-Grasp</a></td>

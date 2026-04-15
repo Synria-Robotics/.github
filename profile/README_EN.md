@@ -28,7 +28,7 @@ The company’s technical architecture is built on five core pillars:
   </thead>
   <tbody>
     <tr>
-      <td rowspan="6"><strong>Alicia-D Series</strong><br/>6-DOF Servo Arm
+      <td rowspan="5"><strong>Alicia-D Series</strong><br/>6-DOF Servo Arm
         <img src="../imgs/Alicia-D.png" alt="Alicia-D Preview" style="width: 200px; margin-top: 6px;" /><br/>
         <img src="../imgs/Alicia_Duo_V5_4.png" alt="Alicia-D Preview" style="width: 200px; margin-top: 6px;" />
       </td>
@@ -42,10 +42,6 @@ The company’s technical architecture is built on five core pillars:
     <tr>
       <td><a href="https://github.com/Synria-Robotics/Alicia-D-ROS2">Alicia-D-ROS2</a></td>
       <td>ROS2 Humble support with standard topic interfaces and a complete control pipeline.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Synria-Robotics/Alicia-D-Leader-ROS">Alicia-D-Leader-ROS</a></td>
-      <td>ROS driver for the leader arm, providing joint state reading and publishing as custom messages.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/Synria-Robotics/Alicia-D-VLM-Grasp">Alicia-D-VLM-Grasp</a></td>
